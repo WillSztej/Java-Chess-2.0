@@ -1,4 +1,4 @@
 # Java-Chess-2.0
-New implementation for Java-based chess game, hosted on a web service that can be played online with friends
+New implementation for a playable chess game, this time hosted on a web service and playable online with friends
 
-This project is currently in development.
+This project will be made using the MERN stack, and is currently in development.
